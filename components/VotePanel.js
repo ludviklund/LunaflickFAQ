@@ -1,4 +1,3 @@
-// Les mer om async/await: https://www.valentinog.com/blog/how-async-await-in-react/, kommenter kode for å forklare hvorfor async og await.
 import React, { Component } from 'react';
 
 class VotePanel extends Component {
