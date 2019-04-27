@@ -25,7 +25,7 @@ class QuestionPanel extends Component {
                 key={q.id}
                 eventKey={q.id}
                 panelTitle={q.question}
-                panelBody={ q.answer }
+                panelBody={q.answer}
                 upVotes={q.upVotes}
                 totalVotes={q.totalVotes}
             />
