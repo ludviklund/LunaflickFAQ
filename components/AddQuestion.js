@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import { Row, Panel } from 'react-bootstrap';
 import VotePanel from './VotePanel.js';
 import RatingPanel from './RatingPanel.js';
-// Trenger flere kommentarer
 
 class AddQuestion extends Component {
 
